@@ -1,0 +1,1 @@
+# QlikSense_Data_Architect
